@@ -13,11 +13,11 @@ Dino Polska S.A. (DNP.WA) is one of Poland's leading retail chains, primarily op
 4. **Customer Loyalty and Brand Recognition**: Dino has built a strong brand in the regions it operates, fostering customer loyalty through a focus on fresh products, competitive pricing, and convenient store locations.
 
 ## Financial Performance
-1. **Revenue Growth**: Dino has demonstrated consistent revenue growth over the past years. For 2023, Dino reported total revenue of PLN 19.8 billion, up from PLN 13.36 billion in 2022&#8203;:citation[oaicite:8]{index=8}&#8203;&#8203;:citation[oaicite:7]{index=7}&#8203;.
+1. **Revenue Growth**: Dino has demonstrated consistent revenue growth over the past years. For 2023, Dino reported total revenue of PLN 19.8 billion, up from PLN 13.36 billion in 2022.
 
-2. **Profitability**: The company's EBITDA margins are robust. For the trailing twelve months (TTM) ending March 31, 2024, Dino's operating margin stood at 7.11%, and the net profit margin was 5.34%&#8203;:citation[oaicite:6]{index=6}&#8203;.
+2. **Profitability**: The company's EBITDA margins are robust. For the trailing twelve months (TTM) ending March 31, 2024, Dino's operating margin stood at 7.11%, and the net profit margin was 5.34%.
 
-3. **Cash Flow and Debt Management**: Dino generates strong cash flow from operations. For 2023, the operating cash flow margin was 11.91%. The company's total debt to equity ratio was 21.79% as of March 31, 2024, indicating a balanced approach to leveraging for growth&#8203;:citation[oaicite:5]{index=5}&#8203;.
+3. **Cash Flow and Debt Management**: Dino generates strong cash flow from operations. For 2023, the operating cash flow margin was 11.91%. The company's total debt to equity ratio was 21.79% as of March 31, 2024, indicating a balanced approach to leveraging for growth.
 
 ## Financial Analysis
 1. **Revenue Growth Analysis**:
@@ -25,16 +25,16 @@ Dino Polska S.A. (DNP.WA) is one of Poland's leading retail chains, primarily op
     - **Future Projections**: Analysts estimate a continued revenue growth rate of around 15% over the next three years, supported by ongoing store expansions and increased market penetration.
 
 2. **Profitability Metrics**:
-    - **EBITDA Margin**: Dino's EBITDA margin has consistently remained above industry averages. For 2023, the EBITDA margin was approximately 22.88%&#8203;:citation[oaicite:4]{index=4}&#8203;.
-    - **Net Profit Margin**: The net profit margin for the trailing twelve months was 5.34%, indicating strong bottom-line performance and effective expense control&#8203;:citation[oaicite:3]{index=3}&#8203;.
+    - **EBITDA Margin**: Dino's EBITDA margin has consistently remained above industry averages. For 2023, the EBITDA margin was approximately 22.88%.
+    - **Net Profit Margin**: The net profit margin for the trailing twelve months was 5.34%, indicating strong bottom-line performance and effective expense control.
 
 3. **Cash Flow Analysis**:
-    - **Operating Cash Flow**: Dino's operating cash flow has shown steady growth. The cash flow per share for the trailing twelve months was PLN 20.03&#8203;:citation[oaicite:2]{index=2}&#8203;.
+    - **Operating Cash Flow**: Dino's operating cash flow has shown steady growth. The cash flow per share for the trailing twelve months was PLN 20.
     - **Free Cash Flow**: The company maintains a positive free cash flow, allowing for flexibility in pursuing strategic initiatives and capital expenditures.
 
 4. **Balance Sheet Strength**:
-    - **Debt-to-Equity Ratio**: Dino's total debt-to-equity ratio was 21.79% as of March 31, 2024, indicating a balanced approach to leveraging for growth without overburdening the company with debt&#8203;:citation[oaicite:1]{index=1}&#8203;.
-    - **Liquidity Ratios**: The current ratio was 0.88 and the quick ratio was 0.18 as of March 31, 2024, demonstrating the company's ability to meet short-term obligations&#8203;:citation[oaicite:0]{index=0}&#8203;.
+    - **Debt-to-Equity Ratio**: Dino's total debt-to-equity ratio was 21.79% as of March 31, 2024, indicating a balanced approach to leveraging for growth without overburdening the company with debt.
+    - **Liquidity Ratios**: The current ratio was 0.88 and the quick ratio was 0.18 as of March 31, 2024, demonstrating the company's ability to meet short-term obligations.
 
 ## Growth Opportunities
 1. **Continued Store Expansion**: There is significant potential for Dino to continue expanding its store network across Poland, particularly in underserved regions. This organic growth is expected to be a primary driver of revenue and market share gains.
